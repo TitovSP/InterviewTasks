@@ -1,0 +1,9 @@
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\bin\Debug\netcoreapp2.1\AreaOfShapes.deps.json
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\bin\Debug\netcoreapp2.1\AreaOfShapes.dll
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\bin\Debug\netcoreapp2.1\AreaOfShapes.pdb
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.csprojAssemblyReference.cache
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.AssemblyInfoInputs.cache
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.AssemblyInfo.cs
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.dll
+C:\Users\stitov\Desktop\AreaOfShapes\AreaOfShapes\obj\Debug\netcoreapp2.1\AreaOfShapes.pdb
